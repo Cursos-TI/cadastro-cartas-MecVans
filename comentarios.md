@@ -3,3 +3,9 @@
 #### Ainda assim, é impossível travar o usuário a digitar apenas de "A a H" ou de "1 a 4" sem usar o "while"
 #### Por isso, no código até aqui (desafio intermediário), eu mantive o "while", mas não utilizei "for", por enquanto.
 #### A minha ideia é simplificar o máximo o código, e deixar ele o mais curto possível, mas vou seguir QUASE todas as orientações.
+
+#### --
+
+#### Finalizando o projeto nível mestre.
+#### A minha conclusão é que a ideia de limitar o código não é o ideal, ainda mais quando algumas coisas são "exigidas".
+#### No mais, desafio completo.
